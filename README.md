@@ -53,3 +53,14 @@ curl -X POST https://chat.jewelrybysweetpea.com/mcp \
 ## About
 
 Jewelry by Sweet Pea is a family-run online fine-jewelry store. Questions or issues with the server: [danielle@jewelrybysweetpea.com](mailto:danielle@jewelrybysweetpea.com) · [jewelrybysweetpea.com](https://www.jewelrybysweetpea.com)
+
+## Discovery
+
+This server is discoverable by machines through:
+
+- **Official MCP Registry:** [io.github.danielle790/jewelry-by-sweet-pea](https://registry.modelcontextprotocol.io/v0/servers?search=jewelry-by-sweet-pea)
+- **Well-known URIs** on the store domain:
+  - [/.well-known/mcp/server-card.json](https://jewelrybysweetpea.com/.well-known/mcp/server-card.json)
+  - [/.well-known/mcp.json](https://jewelrybysweetpea.com/.well-known/mcp.json)
+  - [/.well-known/webmcp.json](https://jewelrybysweetpea.com/.well-known/webmcp.json)
+- **[llms.txt](https://jewelrybysweetpea.com/llms.txt)** for AI crawlers
