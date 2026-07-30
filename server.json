@@ -4,7 +4,11 @@
   "title": "Jewelry by Sweet Pea Products",
   "description": "Live search of 100,000+ fine jewelry products, prices and store policies. Read-only, no auth.",
   "websiteUrl": "https://www.jewelrybysweetpea.com",
-  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/danielle790/jewelry-by-sweet-pea-mcp",
+    "source": "github"
+  },
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
