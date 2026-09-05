@@ -12,6 +12,8 @@ A free, public, **read-only** [Model Context Protocol](https://modelcontextproto
 |------|--------------|
 | `search_products` | Live search of 100,000+ fine-jewelry products (gold, sterling silver, NCAA/collegiate LogoArt). Returns name, SKU, live price, availability, and product URL. |
 | `get_product` | Fetch one product's live details (price, availability, sizes/variants, URL) by SKU. |
+| `find_compatible_chains` | For a pendant or charm SKU: chains that fit its bail (metal family, width, price) plus other pieces the store pairs with it. |
+| `list_size_variants` | For a ring, chain, bracelet or anklet SKU: the same piece in other sizes or lengths, each with its own SKU and URL. |
 | `get_store_policies` | Shipping (free US), returns (free 30-day), warranty, resizing, payment, and contact details. |
 
 ## Quick start

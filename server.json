@@ -2,13 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.danielle790/jewelry-by-sweet-pea",
   "title": "Jewelry by Sweet Pea Products",
-  "description": "Live search of 100,000+ fine jewelry products, prices and store policies. Read-only, no auth.",
+  "description": "Live fine-jewelry catalog: search, product lookup, compatible chains, size/length variants, store po",
   "websiteUrl": "https://www.jewelrybysweetpea.com",
   "repository": {
     "url": "https://github.com/danielle790/jewelry-by-sweet-pea-mcp",
     "source": "github"
   },
-  "version": "1.0.1",
+  "version": "1.1.0",
   "remotes": [
     {
       "type": "streamable-http",
